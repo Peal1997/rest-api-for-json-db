@@ -38,7 +38,7 @@ app.listen(PORT , ()=> {
 * nodemailer
 * multer
 
-live project link[Education Board result](http://www.educationboardresults.gov.bd/)
+live project link : [Education Board result](http://www.educationboardresults.gov.bd/)
 
 
 
